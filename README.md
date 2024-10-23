@@ -1,15 +1,16 @@
-## Hi!🦎 I'm Samoei
 <h1 align="center">Hi!🦎 I'm Samoei</h1>
 I graduated (Bachelor of Science in Computer Science and Computer Engineering) from the University
 of Cape Town in 2022 and have since entered the software development industry (specifically the financial technology
-and legal software spaces) 🔭
+and legal software spaces) as a software engineer, working primarily in the backend. I'm glad you're here! 🔭
+
 ## Tech stack:
-[x]C# (.NET)
-[x] Python
+
+- [x] C# (.NET)
+- [x] Python
 ## Currently learning
-[ ] AWS Elastic Kubernetes Service
-[ ]
-[ ] Unity 
+- [ ] AWS Elastic Kubernetes Service
+- [ ] Angular 
+- [ ] Unity 
 # Projects:
 ## 2048 DQN [WIP]
 -
