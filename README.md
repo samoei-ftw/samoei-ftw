@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi!🦎 I'm Samoei
+<h1 align="center">Hi!🦎 I'm Samoei</h1>
+I graduated (Bachelor of Science in Computer Science and Computer Engineering) from the University
+of Cape Town in 2022 and have since entered the software development industry (specifically the financial technology
+and legal software spaces) 🔭
+## Tech stack:
+[x]C# (.NET)
+[x] Python
+## Currently learning
+[ ] AWS Elastic Kubernetes Service
+[ ]
+[ ] Unity 
+# Projects:
+## 2048 DQN [WIP]
+-
+## Gift
+-
+## Trello Board
+-
+## Tetris
+-
+## Solana Pay Store
+-
+## CoinMarketCap App
+-
 
-<!--
-**samoei-ftw/samoei-ftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🥂 Let's get in touch!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Profile](https://github.com/samoei-ftw)
+- [Email](mailto:samoeia.oloo@gmail.com?subject=Hi% "Hi!")
+- [Website]on its way!)
